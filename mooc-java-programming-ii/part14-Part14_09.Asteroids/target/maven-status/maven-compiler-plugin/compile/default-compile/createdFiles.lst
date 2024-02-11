@@ -1,0 +1,7 @@
+asteroids\logic\Asteroid.class
+asteroids\AsteroidsApplication.class
+asteroids\logic\Projectile.class
+asteroids\logic\Character.class
+asteroids\AsteroidsApplication$1.class
+asteroids\logic\PolygonFactory.class
+asteroids\logic\Ship.class
